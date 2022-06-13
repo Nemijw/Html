@@ -1,0 +1,38 @@
+.bildLitenORund{
+    width: 200px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+}
+.bildNav{
+width: 1500px;
+height: 600px;
+object-fit: cover;
+}
+.svartbakgrund{
+    margin: 0;
+    background-color: black;
+}
+
+.special p{
+    color:aqua;
+    font-weight: bold;
+}
+
+.about{
+    text-align: justify;
+    font-size: large;
+    color: blueviolet;
+}
+.about a{
+    font-weight: bold;
+}
+
+body{
+    color: rgb(102, 167, 167);
+}
+
+p{
+    color:brown;
+}
+
